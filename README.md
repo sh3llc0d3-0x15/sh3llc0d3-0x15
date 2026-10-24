@@ -1,4 +1,4 @@
-# sh3llc0d3-0x15
+# sh3llc0d3 :)
 
 offensive security.
 
